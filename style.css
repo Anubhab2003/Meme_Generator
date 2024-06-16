@@ -27,3 +27,22 @@
 .meme-generator .mem-author{
     margin: 8px;
 }
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+    background-color: #333;
+    display: block;
+}
+  
+footer a {
+color: white;
+text-decoration: none;
+margin: 0 10px; /* Adjust the margin value as needed */
+}
+  
+footer a:hover {
+color: tomato;
+}
